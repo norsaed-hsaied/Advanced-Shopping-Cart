@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1099,
+        "imgUrl": "/images/laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Keyboard",
+        "price": 199,
+        "imgUrl": "/images/keyboard.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Computer Mouse",
+        "price": 8.99,
+        "imgUrl": "/images/mouse.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Headphones",
+        "price": 149.99,
+        "imgUrl": "/images/headphones.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Webcam",
+        "price": 29,
+        "imgUrl": "/images/webcam.jpg"
+    },
+    {
+        "id": 6,
+        "name": "USB Port",
+        "price": 15.99,
+        "imgUrl": "/images/usbport.jpg"
+    }
+]
